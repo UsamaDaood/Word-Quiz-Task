@@ -6,6 +6,15 @@ I have used Latest React Native Version (0.71.4) and I have used following packa
  * Redux Toolkit.
  * Redux Thunk for API calling (If Present)
 
+# App Video
+ 
+ You can check the video here.
+ https://drive.google.com/file/d/16ClPTWZjuFteemB3k4mph2IkmaxAhBkZ/view?usp=sharing
+ 
+ 
+
+
+
 # Code Structure.
 
 I have used the simple architecture of the directry structure. For common components, I have created these in Componnets folder. 
