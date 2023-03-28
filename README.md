@@ -22,7 +22,7 @@ This is basic and Simple folder structure and architecture of React Native app.
   * Just create the Signed KeyStore and Select it while creating the <b>Signed APK</b>.
   * Now You can update it on the Google Play Console.
 
-#IOS Release:
+# IOS Release:
 
   * You need to open the ios folder in main project root directry and open the file <b> ios > projectName > projectName.xcworkspace </b> file in xcode.
   * You'll select the General Device on the Top of project in Xcode and just create <b> Archive </b>.
